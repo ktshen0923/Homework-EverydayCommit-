@@ -5,3 +5,4 @@
 20170522:考完試要來做JavaScript作業囉
 20170526:Commit一下
 20170527:做完PHP的Codecademy惹
+20170528:做完Codecademy的Make a Website惹
